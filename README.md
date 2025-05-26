@@ -2,44 +2,44 @@
 Здесь представлены домашние задания и проекты во время учебы
 ## Содержание
 ### python
-1. [Домашние задания по python по 2 лекции](computational-biology-portfolio/Koivistoinen_A.K.lecture_2_exercises.ipynb);
-2. [Домашние задания по python по 3 лекции](computational-biology-portfolio/Koivistoinen_A_K_Lecture_3_(2023_09_22).ipynb);
-3. [Домашние задания по python по 4-6 лекции](computational-biology-portfolio/Koivistoinen_A_K_lecture_5_6_2023-10-10.ipynb);
-4. [Домашние задания по python по 7-22 лекции](computational-biology-portfolio/Koivistoinen_A.K._homework_lectures_7-22.ipynb).
+1. [Домашние задания по python по 2 лекции](Koivistoinen_A.K.lecture_2_exercises.ipynb);
+2. [Домашние задания по python по 3 лекции](Koivistoinen_A_K_Lecture_3_(2023_09_22).ipynb);
+3. [Домашние задания по python по 4-6 лекции](Koivistoinen_A_K_lecture_5_6_2023-10-10.ipynb);
+4. [Домашние задания по python по 7-22 лекции](Koivistoinen_A.K._homework_lectures_7-22.ipynb).
 
 ### Data science
-[Создание модели машинного обучения для прогнозирования значения признака (классификация)](computational-biology-portfolio/DataScience_Koivistoinen_AK.ipynb)
+[Создание модели машинного обучения для прогнозирования значения признака (классификация)](DataScience_Koivistoinen_AK.ipynb)
 
 ###Дискретная математика
-1. [Функция Габора](computational-biology-portfolio/Koivistoinen_A.K._HW_math.ipynb);
-2. [Функция Розенброка](computational-biology-portfolio/KoivistoinenAK_Rosenbrock_math2.ipynb);
-3. [Определение концентрации линейных комбинаций смеси 4 данных веществ (изначально рандомные концентрации) и подсчет невязки по отношению к известным (исходным) концентарциям](computational-biology-portfolio/Koivistoinen_A_K_homework_math1.ipynb).
+1. [Функция Габора](Koivistoinen_A.K._HW_math.ipynb);
+2. [Функция Розенброка](KoivistoinenAK_Rosenbrock_math2.ipynb);
+3. [Определение концентрации линейных комбинаций смеси 4 данных веществ (изначально рандомные концентрации) и подсчет невязки по отношению к известным (исходным) концентарциям](Koivistoinen_A_K_homework_math1.ipynb).
 
 ### Бионформатика: DNA-seq 
-1. [Методы медицинской генетики](computational-biology-portfolio/Койвистойнен_А.К._Методы_медицинской_генетики.pdf);
-2. [GWAS](computational-biology-portfolio/Койвистойнен_А.К._2дз_GWAS.pdf);
-3. [Приготовление библиотек](computational-biology-portfolio/Койвистойнен_А.К._3дз_Приготовление_библиотек.pdf);
-4. [Контроль качества, fasta, fastq](computational-biology-portfolio/Койвистойнен_А.К._4дз_Контроль_качества,fasta,fastq.pdf);
-5. [Секвенирование de novo, геномы, bed-файлы](computational-biology-portfolio/Койвистойнен_А.К._5дз_Секвенирование_de_novo,_геномы,_bed-файлы);
-6. [GATK](computational-biology-portfolio/Койвистойнен_А.К._6дз_GATK.pdf);
-7. [Callers, precision FDA truth challenge, IGV](computational-biology-portfolio/Койвистойнен_А.К._7дз_Callers,precision_FDA_truth_challenge,IGV.pdf);
-8. [Зачетное задание](computational-biology-portfolio/Койвистойнен_А.К._Зачетное_задание.pdf).
+1. [Методы медицинской генетики](Койвистойнен_А.К._Методы_медицинской_генетики.pdf);
+2. [GWAS](Койвистойнен_А.К._2дз_GWAS.pdf);
+3. [Приготовление библиотек](Койвистойнен_А.К._3дз_Приготовление_библиотек.pdf);
+4. [Контроль качества, fasta, fastq](Койвистойнен_А.К._4дз_Контроль_качества,fasta,fastq.pdf);
+5. [Секвенирование de novo, геномы, bed-файлы](Койвистойнен_А.К._5дз_Секвенирование_de_novo,_геномы,_bed-файлы);
+6. [GATK](Койвистойнен_А.К._6дз_GATK.pdf);
+7. [Callers, precision FDA truth challenge, IGV](Койвистойнен_А.К._7дз_Callers,precision_FDA_truth_challenge,IGV.pdf);
+8. [Зачетное задание](Койвистойнен_А.К._Зачетное_задание.pdf).
 
 ### Бионформатика: RNA-seq 
-1. [Анализ таблицы экспрессии в phantasus](computational-biology-portfolio/Койвистойнен_А.К._дз1.pdf);
-2. [Анализ таблицы экспрессии в R](computational-biology-portfolio/Койвистойнен_А.К._дз2.pdf);
-3. [Анализ single-cell RNA-seq в R](computational-biology-portfolio/Койвистойнен_А.К._дз3.pdf).
+1. [Анализ таблицы экспрессии в phantasus](Койвистойнен_А.К._дз1.pdf);
+2. [Анализ таблицы экспрессии в R](Койвистойнен_А.К._дз2.pdf);
+3. [Анализ single-cell RNA-seq в R](Койвистойнен_А.К._дз3.pdf).
 
 ### R 
-[Анализ экспрессии генов у пациентов с мелкоклеточным раком легкого на разных стадиях](computational-biology-portfolio/KoivistoinenAK_zadanie_zachet_2.R)
+[Анализ экспрессии генов у пациентов с мелкоклеточным раком легкого на разных стадиях](KoivistoinenAK_zadanie_zachet_2.R)
 
 ### Геномика и протеомика
-1. [Анализ различий между ризосферными слоями растений и обычной почвой, а также между разными ризосферными слоями различных сортов растений](computational-biology-portfolio/Койвистойнен_А.К._Отчет.pdf);
-2. [Сборка и первичная аннотация гена E.coli O104:H4 strain TY-2482, высокопатогенного энтерогеморрагического штамма кишечной палочки](computational-biology-portfolio/Койвистойнен_А.К._Отчет_hw2.pdf).
+1. [Анализ различий между ризосферными слоями растений и обычной почвой, а также между разными ризосферными слоями различных сортов растений](Койвистойнен_А.К._Отчет.pdf);
+2. [Сборка и первичная аннотация гена E.coli O104:H4 strain TY-2482, высокопатогенного энтерогеморрагического штамма кишечной палочки](Койвистойнен_А.К._Отчет_hw2.pdf).
 
 ### Воркшоп в рамках дисциплины "Прикладная биоинформатика: 3C-технологии" - анализ данных Hi-C
-1. [Краткий отчет bootcamp](computational-biology-portfolio/Койвистойнен_А.К._краткий_отчет_bootcamp.pdf);
-2. [Полный отчет bootcamp](computational-biology-portfolio/Койвистойнен_А.К._Bootcamp_полный_отчет.pdf).
+1. [Краткий отчет bootcamp](Койвистойнен_А.К._краткий_отчет_bootcamp.pdf);
+2. [Полный отчет bootcamp](Койвистойнен_А.К._Bootcamp_полный_отчет.pdf).
 
 Используемые стеки: 
 1) R (в RStudio: DESeq2, edgeR, limma, tidyverse, pheatmap, ggplot2, tibble, tidyr, ragg и т.п);
