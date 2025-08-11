@@ -46,3 +46,22 @@
 2) python: pandas, numpy, matplotlib, sklearn, seaborn;
 3) Linux (bash: Docker, git)
 4) phantasus, enrichr
+
+### Выпускная квалификационная работа. Магистерская диссертация. Тема: "Филогеномный анализ и выявление генетических маркеров устойчивости к бактериофагам у пробиотических видов родов Lactococcus и Enterococcus"
+[ВКР](ВКР_Койвистойнен_А_К_с_титулом.pdf).
+
+Задействованные инструменты:
+1) Kraken2
+2) MUSCLE
+3) MEGA11
+4) UBCG
+5) PanACoTA
+6) Badlon (PanACoTA, SibeliaZ)
+7) OrthoANI
+8) CRISPRCasFinder
+9) DefenseFinder
+10) Bagel4
+11) Pathogenfinder
+12) ProbioMinServer
+13) MetaProbiotics (Docker)
+14) Linux (bash)
