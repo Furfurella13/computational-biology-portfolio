@@ -53,15 +53,16 @@
 Задействованные инструменты:
 1) Kraken2
 2) MUSCLE
-3) MEGA11
-4) UBCG
-5) PanACoTA
-6) Badlon (PanACoTA, SibeliaZ)
-7) OrthoANI
-8) CRISPRCasFinder
-9) DefenseFinder
-10) Bagel4
-11) Pathogenfinder
-12) ProbioMinServer
-13) MetaProbiotics (Docker)
-14) Linux (bash)
+3) MEGAHIT
+4) MEGA11
+5) UBCG
+6) PanACoTA
+7) Badlon (PanACoTA, SibeliaZ)
+8) OrthoANI
+9) CRISPRCasFinder
+10) DefenseFinder
+11) Bagel4
+12) Pathogenfinder
+13) ProbioMinServer
+14) MetaProbiotics (Docker)
+15) Linux (bash)
